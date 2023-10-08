@@ -9,8 +9,13 @@ Zero Indicates that they have no relationship.
 a) Simple Regression:It is used to determine the relation between one dependent variable and one independent variable.
 the regression line also known as least square line is the plot of expected values of dependent variable for all value of the independent variable. 
 equation is Y = mx + c + e
+
 Y = Dependent variable 
+
 x = Independent variable 
+
 m = slope of regression line 
+
 c = y intercept 
+
 e = error term. 
